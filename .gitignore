@@ -1,0 +1,6 @@
+.build/
+*.app/
+frames/
+.DS_Store
+# Your own pet picture (stock images aren't ours to publish)
+pet.png
