@@ -6,7 +6,9 @@ your cursor, and teaches you its own tricks through a speech bubble.
 Swift + AppKit, no dependencies. The default dino is drawn in code with bezier paths; you can also
 hand it any picture and it becomes the pet.
 
-![drawn dino](docs/dino.png)
+<img width="581" height="527" alt="pet" src="https://github.com/user-attachments/assets/72f27460-b2ba-42f6-805e-a425845a8b10" />
+
+
 
 ## Run
 
